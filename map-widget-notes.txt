@@ -1,0 +1,22 @@
+MAP WIDGET NOTES
+
+Github gist with copy of sample map widget data:
+
+ jrschmidt/map-data-00.json
+
+
+my api key:
+05a12e43c95b2528c27bcc3456dd72d8
+
+
+ Map widget::
+
+push url:
+https://push.geckoboard.com/v1/send/769736-98eca890-12f4-0138-c4a4-02c1837580ef
+
+widget key:
+769736-98eca890-12f4-0138-c4a4-02c1837580ef
+
+example of curl command to push data to widget:
+
+curl -X POST  https://push.geckoboard.com/v1/send/example-widget-key -d '{"api_key":"example-api-key","data":{"item":[{"text":"This is a new message","type":0}]}}' -H "Content-Type:application/json"
