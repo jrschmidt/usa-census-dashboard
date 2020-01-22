@@ -1,0 +1,34 @@
+curl -X POST  https://push.geckoboard.com/v1/send/769736-98eca890-12f4-0138-c4a4-02c1837580ef -d '{"api_key":"05a12e43c95b2528c27bcc3456dd72d8","data":{
+  "points": {
+    "point": [
+      {
+        "city": {
+          "city_name": "Phoenix",
+          "country_code": "US",
+          "region_code": "AZ"
+        }
+      },
+      {
+        "city": {
+          "city_name": "Kingman",
+          "country_code": "US",
+          "region_code": "AZ"
+        }
+      },
+      {
+        "city": {
+          "city_name": "Flagstaff",
+          "country_code": "US",
+          "region_code": "AZ"
+        }
+      },
+      {
+        "city": {
+          "city_name": "Saint Johns",
+          "country_code": "US",
+          "region_code": "AZ"
+        }
+      }
+    ]
+  }
+}}' -H "Content-Type:application/json"

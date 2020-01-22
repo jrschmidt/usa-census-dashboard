@@ -1,0 +1,21 @@
+{
+  "points": {
+    "point": [
+      {
+        "city": {
+          "city_name": "San Francisco",
+          "country_code": "US",
+          "region_code": "CA"
+        }
+        "size": 5,
+        "color": "009999"
+      },
+      {
+        "latitude": "39",
+        "longitude": "-95",
+        "size": 5,
+        "color": "003333"
+      },
+    ]
+  }
+}
