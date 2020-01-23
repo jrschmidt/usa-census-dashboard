@@ -1,0 +1,16 @@
+{
+  "name": "gbx",
+  "version": "1.0.0",
+  "description": "Package to supply data to my Geckoboard dashboard",
+  "main": "cw-post-01.js",
+  "dependencies": {
+    "geckoboard": "^1.2.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JR Schmidt",
+  "license": "ISC"
+}
