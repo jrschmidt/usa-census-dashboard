@@ -1,0 +1,15 @@
+[
+  {latitude: 43.5, longitude: -71.6, color: 'adbdcc', size: 5}, // NH 1790
+  {latitude: 42.4, longitude: -72, color: 'adbdcc', size: 5}, // MA 1790
+  {latitude: 41.7, longitude: -71.5, color: 'adbdcc', size: 5}, // RI 1790
+  {latitude: 41.6, longitude: -72.7, color: 'adbdcc', size: 5}, // CT 1790
+  {latitude: 43, longitude: -75, color: 'adbdcc', size: 10}, // NY 1790
+  {latitude: 40.2, longitude: -74.4, color: 'adbdcc', size: 5}, // NJ 1790
+  {latitude: 41, longitude: -78, color: 'adbdcc', size: 10}, // PA 1790
+  {latitude: 39, longitude: -75.4, color: 'adbdcc', size: 5}, // DE 1790
+  {latitude: 39.2, longitude: -76.6, color: 'adbdcc', size: 5}, // MD 1790
+  {latitude: 37.8, longitude: -78.5, color: 'adbdcc', size: 10}, // VA 1790
+  {latitude: 35.5, longitude: -78.5, color: 'adbdcc', size: 10}, // NC 1790
+  {latitude: 33.8, longitude: -80.8, color: 'adbdcc', size: 10}, // SC 1790
+  {latitude: 32.9, longitude: -83.5, color: 'adbdcc', size: 10}, // GA 1790
+]

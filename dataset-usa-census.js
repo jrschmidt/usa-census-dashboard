@@ -4,7 +4,7 @@ var gb = require('geckoboard')(API_KEY);
 
 gb.datasets.findOrCreate(
   {
-    id: 'us-census-x3',
+    id: 'us-census-x5',
     fields: {
       census_year: {
         type: 'string',
@@ -25,6 +25,11 @@ gb.datasets.findOrCreate(
       population: {
         type: 'number',
         name: 'Population'
+      },
+      percent_change: {
+        type: 'number',
+        name: 'Percent change',
+        optional: true
       }
     },
     unique_by: ['census_year', 'state']
