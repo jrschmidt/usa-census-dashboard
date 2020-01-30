@@ -1,17 +1,3 @@
-{census_year: '1790', state: 'NH', state_name: 'New Hampshire', population: 141885},
-{census_year: '1790', state: 'MA', state_name: 'Massachusetts', population: 378787},
-{census_year: '1790', state: 'RI', state_name: 'Rhode Island', population: 68825},
-{census_year: '1790', state: 'CT', state_name: 'Connecticut', population: 237946},
-{census_year: '1790', state: 'NY', state_name: 'New York', population: 340120},
-{census_year: '1790', state: 'NJ', state_name: 'New Jersey', population: 184139},
-{census_year: '1790', state: 'PA', state_name: 'Pennsylvania', population: 434373},
-{census_year: '1790', state: 'DE', state_name: 'Delaware', population: 59096},
-{census_year: '1790', state: 'MD', state_name: 'Maryland', population: 319728},
-{census_year: '1790', state: 'VA', state_name: 'Virginia', population: 691737},
-{census_year: '1790', state: 'NC', state_name: 'North Carolina', population: 393751},
-{census_year: '1790', state: 'SC', state_name: 'South Carolina', population: 249073},
-{census_year: '1790', state: 'GA', state_name: 'Georgia', population: 82548},
-
 {census_year: '1800', state: 'NH', state_name: 'New Hampshire', population: 183858, percent_change: 29.58},
 {census_year: '1800', state: 'MA', state_name: 'Massachusetts', population: 422845, percent_change: 11.63},
 {census_year: '1800', state: 'RI', state_name: 'Rhode Island', population: 69122, percent_change: 0.43},
@@ -24,10 +10,9 @@
 {census_year: '1800', state: 'VA', state_name: 'Virginia', population: 807557, percent_change: 16.74},
 {census_year: '1800', state: 'NC', state_name: 'North Carolina', population: 478103, percent_change: 21.42},
 {census_year: '1800', state: 'SC', state_name: 'South Carolina', population: 345591, percent_change: 38.75},
-{census_year: '1800', state: 'GA', state_name: 'Georgia', population: 162686, percent_change: 97.08},
-{census_year: '1800', state: 'VT', state_name: 'Vermont', population: 154465},
-{census_year: '1800', state: 'KY', state_name: 'Kentucky', population: 220955},
-{census_year: '1800', state: 'TN', state_name: 'Tennessee', population: 105602},
+{census_year: '1800', state: 'GA', state_name: 'Georgia', population: 162686, percent_change: 97.08}
+
+
 
 {census_year: '1810', state: 'NH', state_name: 'New Hampshire', population: 214460, percent_change: 16.64},
 {census_year: '1810', state: 'MA', state_name: 'Massachusetts', population: 472040, percent_change: 11.63},
@@ -44,8 +29,9 @@
 {census_year: '1810', state: 'GA', state_name: 'Georgia', population: 251407, percent_change: 54.54},
 {census_year: '1810', state: 'VT', state_name: 'Vermont', population: 217895, percent_change: 41.06},
 {census_year: '1810', state: 'KY', state_name: 'Kentucky', population: 406511, percent_change: 83.98},
-{census_year: '1810', state: 'TN', state_name: 'Tennessee', population: 261727, percent_change: 147.84},
-{census_year: '1810', state: 'OH', state_name: 'Ohio', population: 230760},
+{census_year: '1810', state: 'TN', state_name: 'Tennessee', population: 261727, percent_change: 147.84}
+
+
 
 {census_year: '1820', state: 'NH', state_name: 'New Hampshire', population: 244161, percent_change: 13.85},
 {census_year: '1820', state: 'MA', state_name: 'Massachusetts', population: 523287, percent_change: 10.86},
@@ -63,13 +49,9 @@
 {census_year: '1820', state: 'VT', state_name: 'Vermont', population: 235981, percent_change: 8.30},
 {census_year: '1820', state: 'KY', state_name: 'Kentucky', population: 564317, percent_change: 38.82},
 {census_year: '1820', state: 'TN', state_name: 'Tennessee', population: 422823, percent_change: 61.55},
-{census_year: '1820', state: 'OH', state_name: 'Ohio', population: 581434, percent_change: 151.96},
-{census_year: '1820', state: 'LA', state_name: 'Louisiana', population: 153407},
-{census_year: '1820', state: 'IN', state_name: 'Indiana', population: 147178},
-{census_year: '1820', state: 'MS', state_name: 'Mississippi', population: 75448},
-{census_year: '1820', state: 'IL', state_name: 'Illinois', population: 55211},
-{census_year: '1820', state: 'AL', state_name: 'Alabama', population: 127901},
-{census_year: '1820', state: 'ME', state_name: 'Maine', population: 298335},
+{census_year: '1820', state: 'OH', state_name: 'Ohio', population: 581434, percent_change: 151.96}
+
+
 
 {census_year: '1830', state: 'NH', state_name: 'New Hampshire', population: 269328, percent_change: 10.31},
 {census_year: '1830', state: 'MA', state_name: 'Massachusetts', population: 610408, percent_change: 16.65},
@@ -93,8 +75,9 @@
 {census_year: '1830', state: 'MS', state_name: 'Mississippi', population: 136621, percent_change: 81.08},
 {census_year: '1830', state: 'IL', state_name: 'Illinois', population: 157445, percent_change: 185.17},
 {census_year: '1830', state: 'AL', state_name: 'Alabama', population: 309527, percent_change: 142.01},
-{census_year: '1830', state: 'ME', state_name: 'Maine', population: 399455, percent_change: 33.89},
-{census_year: '1830', state: 'MO', state_name: 'Missouri', population: 140455},
+{census_year: '1830', state: 'ME', state_name: 'Maine', population: 399455, percent_change: 33.89}
+
+
 
 {census_year: '1840', state: 'NH', state_name: 'New Hampshire', population: 284574, percent_change: 5.66},
 {census_year: '1840', state: 'MA', state_name: 'Massachusetts', population: 737699, percent_change: 20.85},
@@ -119,9 +102,9 @@
 {census_year: '1840', state: 'IL', state_name: 'Illinois', population: 476183, percent_change: 202.44},
 {census_year: '1840', state: 'AL', state_name: 'Alabama', population: 590756, percent_change: 90.86},
 {census_year: '1840', state: 'ME', state_name: 'Maine', population: 501793, percent_change: 25.62},
-{census_year: '1840', state: 'MO', state_name: 'Missouri', population: 383702, percent_change: 173.19},
-{census_year: '1840', state: 'AR', state_name: 'Arkansas', population: 97574},
-{census_year: '1840', state: 'MI', state_name: 'Michigan', population: 212267},
+{census_year: '1840', state: 'MO', state_name: 'Missouri', population: 383702, percent_change: 173.19}
+
+
 
 {census_year: '1850', state: 'NH', state_name: 'New Hampshire', population: 317976, percent_change: 11.74},
 {census_year: '1850', state: 'MA', state_name: 'Massachusetts', population: 994514, percent_change: 34.81},
@@ -148,12 +131,9 @@
 {census_year: '1850', state: 'ME', state_name: 'Maine', population: 583169, percent_change: 16.22},
 {census_year: '1850', state: 'MO', state_name: 'Missouri', population: 682044, percent_change: 77.75},
 {census_year: '1850', state: 'AR', state_name: 'Arkansas', population: 209897, percent_change: 115.12},
-{census_year: '1850', state: 'MI', state_name: 'Michigan', population: 397654, percent_change: 87.34},
-{census_year: '1850', state: 'FL', state_name: 'Florida', population: 87445},
-{census_year: '1850', state: 'TX', state_name: 'Texas', population: 212592},
-{census_year: '1850', state: 'IA', state_name: 'Iowa', population: 192214},
-{census_year: '1850', state: 'WI', state_name: 'Wisconsin', population: 305391},
-{census_year: '1850', state: 'CA', state_name: 'California', population: 92597},
+{census_year: '1850', state: 'MI', state_name: 'Michigan', population: 397654, percent_change: 87.34}
+
+
 
 {census_year: '1860', state: 'NH', state_name: 'New Hampshire', population: 326073, percent_change: 2.55},
 {census_year: '1860', state: 'MA', state_name: 'Massachusetts', population: 1231066, percent_change: 23.79},
@@ -185,9 +165,9 @@
 {census_year: '1860', state: 'TX', state_name: 'Texas', population: 604215, percent_change: 184.21},
 {census_year: '1860', state: 'IA', state_name: 'Iowa', population: 674913, percent_change: 251.13},
 {census_year: '1860', state: 'WI', state_name: 'Wisconsin', population: 775881, percent_change: 154.06},
-{census_year: '1860', state: 'CA', state_name: 'California', population: 379994, percent_change: 310.37},
-{census_year: '1860', state: 'MN', state_name: 'Minnesota', population: 172023},
-{census_year: '1860', state: 'OR', state_name: 'Oregon', population: 52465},
+{census_year: '1860', state: 'CA', state_name: 'California', population: 379994, percent_change: 310.37}
+
+
 
 {census_year: '1870', state: 'NH', state_name: 'New Hampshire', population: 318300, percent_change: -2.38},
 {census_year: '1870', state: 'MA', state_name: 'Massachusetts', population: 1457351, percent_change: 18.38},
@@ -221,11 +201,9 @@
 {census_year: '1870', state: 'WI', state_name: 'Wisconsin', population: 1054670, percent_change: 35.93},
 {census_year: '1870', state: 'CA', state_name: 'California', population: 560247, percent_change: 47.44},
 {census_year: '1870', state: 'MN', state_name: 'Minnesota', population: 439706, percent_change: 155.61},
-{census_year: '1870', state: 'OR', state_name: 'Oregon', population: 90923, percent_change: 73.30},
-{census_year: '1870', state: 'KS', state_name: 'Kansas', population: 364399},
-{census_year: '1870', state: 'WV', state_name: 'West Virginia', population: 442014},
-{census_year: '1870', state: 'NV', state_name: 'Nevada', population: 42941},
-{census_year: '1870', state: 'NE', state_name: 'Nebraska', population: 122993},
+{census_year: '1870', state: 'OR', state_name: 'Oregon', population: 90923, percent_change: 73.30}
+
+
 
 {census_year: '1880', state: 'NH', state_name: 'New Hampshire', population: 346991, percent_change: 9.01},
 {census_year: '1880', state: 'MA', state_name: 'Massachusetts', population: 1783085, percent_change: 22.35},
@@ -263,8 +241,9 @@
 {census_year: '1880', state: 'KS', state_name: 'Kansas', population: 996096, percent_change: 173.35},
 {census_year: '1880', state: 'WV', state_name: 'West Virginia', population: 618457, percent_change: 39.92},
 {census_year: '1880', state: 'NV', state_name: 'Nevada', population: 62266, percent_change: 45.00},
-{census_year: '1880', state: 'NE', state_name: 'Nebraska', population: 452402, percent_change: 267.83},
-{census_year: '1880', state: 'CO', state_name: 'Colorado', population: 194327},
+{census_year: '1880', state: 'NE', state_name: 'Nebraska', population: 452402, percent_change: 267.83}
+
+
 
 {census_year: '1890', state: 'NH', state_name: 'New Hampshire', population: 376530, percent_change: 8.51},
 {census_year: '1890', state: 'MA', state_name: 'Massachusetts', population: 2238947, percent_change: 25.57},
@@ -303,13 +282,9 @@
 {census_year: '1890', state: 'WV', state_name: 'West Virginia', population: 762794, percent_change: 23.34},
 {census_year: '1890', state: 'NV', state_name: 'Nevada', population: 47355, percent_change: -23.95},
 {census_year: '1890', state: 'NE', state_name: 'Nebraska', population: 1062656, percent_change: 134.89},
-{census_year: '1890', state: 'CO', state_name: 'Colorado', population: 413249, percent_change: 112.66},
-{census_year: '1890', state: 'ND', state_name: 'North Dakota', population: 190983},
-{census_year: '1890', state: 'SD', state_name: 'South Dakota', population: 348600},
-{census_year: '1890', state: 'MT', state_name: 'Montana', population: 142924},
-{census_year: '1890', state: 'WA', state_name: 'Washington', population: 357232},
-{census_year: '1890', state: 'ID', state_name: 'Idaho', population: 88548},
-{census_year: '1890', state: 'WY', state_name: 'Wyoming', population: 62555},
+{census_year: '1890', state: 'CO', state_name: 'Colorado', population: 413249, percent_change: 112.66}
+
+
 
 {census_year: '1900', state: 'NH', state_name: 'New Hampshire', population: 411588, percent_change: 9.31},
 {census_year: '1900', state: 'MA', state_name: 'Massachusetts', population: 2805346, percent_change: 25.30},
@@ -354,8 +329,9 @@
 {census_year: '1900', state: 'MT', state_name: 'Montana', population: 243329, percent_change: 70.25},
 {census_year: '1900', state: 'WA', state_name: 'Washington', population: 518103, percent_change: 45.03},
 {census_year: '1900', state: 'ID', state_name: 'Idaho', population: 161772, percent_change: 82.69},
-{census_year: '1900', state: 'WY', state_name: 'Wyoming', population: 92531, percent_change: 47.92},
-{census_year: '1900', state: 'UT', state_name: 'Utah', population: 276749},
+{census_year: '1900', state: 'WY', state_name: 'Wyoming', population: 92531, percent_change: 47.92}
+
+
 
 {census_year: '1910', state: 'NH', state_name: 'New Hampshire', population: 430572, percent_change: 4.61},
 {census_year: '1910', state: 'MA', state_name: 'Massachusetts', population: 3366416, percent_change: 20.00},
@@ -401,8 +377,9 @@
 {census_year: '1910', state: 'WA', state_name: 'Washington', population: 1141990, percent_change: 120.42},
 {census_year: '1910', state: 'ID', state_name: 'Idaho', population: 325594, percent_change: 101.27},
 {census_year: '1910', state: 'WY', state_name: 'Wyoming', population: 145965, percent_change: 57.75},
-{census_year: '1910', state: 'UT', state_name: 'Utah', population: 373351, percent_change: 34.91},
-{census_year: '1910', state: 'OK', state_name: 'Oklahoma', population: 1657155},
+{census_year: '1910', state: 'UT', state_name: 'Utah', population: 373351, percent_change: 34.91}
+
+
 
 {census_year: '1920', state: 'NH', state_name: 'New Hampshire', population: 443083, percent_change: 2.91},
 {census_year: '1920', state: 'MA', state_name: 'Massachusetts', population: 3852356, percent_change: 14.43},
@@ -449,9 +426,9 @@
 {census_year: '1920', state: 'ID', state_name: 'Idaho', population: 431866, percent_change: 32.64},
 {census_year: '1920', state: 'WY', state_name: 'Wyoming', population: 194402, percent_change: 33.18},
 {census_year: '1920', state: 'UT', state_name: 'Utah', population: 449396, percent_change: 20.37},
-{census_year: '1920', state: 'OK', state_name: 'Oklahoma', population: 2028283, percent_change: 22.40},
-{census_year: '1920', state: 'NM', state_name: 'New Mexico', population: 360350},
-{census_year: '1920', state: 'AZ', state_name: 'Arizona', population: 334162},
+{census_year: '1920', state: 'OK', state_name: 'Oklahoma', population: 2028283, percent_change: 22.40}
+
+
 
 {census_year: '1930', state: 'NH', state_name: 'New Hampshire', population: 465293, percent_change: 5.01},
 {census_year: '1930', state: 'MA', state_name: 'Massachusetts', population: 4249614, percent_change: 10.31},
@@ -500,7 +477,9 @@
 {census_year: '1930', state: 'UT', state_name: 'Utah', population: 507847, percent_change: 13.01},
 {census_year: '1930', state: 'OK', state_name: 'Oklahoma', population: 2396040, percent_change: 18.13},
 {census_year: '1930', state: 'NM', state_name: 'New Mexico', population: 423317, percent_change: 17.47},
-{census_year: '1930', state: 'AZ', state_name: 'Arizona', population: 435573, percent_change: 30.35},
+{census_year: '1930', state: 'AZ', state_name: 'Arizona', population: 435573, percent_change: 30.35}
+
+
 
 {census_year: '1940', state: 'NH', state_name: 'New Hampshire', population: 491524, percent_change: 5.64},
 {census_year: '1940', state: 'MA', state_name: 'Massachusetts', population: 4316721, percent_change: 1.58},
@@ -549,7 +528,9 @@
 {census_year: '1940', state: 'UT', state_name: 'Utah', population: 550310, percent_change: 8.36},
 {census_year: '1940', state: 'OK', state_name: 'Oklahoma', population: 2336434, percent_change: -2.49},
 {census_year: '1940', state: 'NM', state_name: 'New Mexico', population: 531818, percent_change: 25.63},
-{census_year: '1940', state: 'AZ', state_name: 'Arizona', population: 499261, percent_change: 14.62},
+{census_year: '1940', state: 'AZ', state_name: 'Arizona', population: 499261, percent_change: 14.62}
+
+
 
 {census_year: '1950', state: 'NH', state_name: 'New Hampshire', population: 533242, percent_change: 8.49},
 {census_year: '1950', state: 'MA', state_name: 'Massachusetts', population: 4690514, percent_change: 8.66},
@@ -598,7 +579,9 @@
 {census_year: '1950', state: 'UT', state_name: 'Utah', population: 688862, percent_change: 25.18},
 {census_year: '1950', state: 'OK', state_name: 'Oklahoma', population: 2233351, percent_change: -4.41},
 {census_year: '1950', state: 'NM', state_name: 'New Mexico', population: 681187, percent_change: 28.09},
-{census_year: '1950', state: 'AZ', state_name: 'Arizona', population: 749587, percent_change: 50.14},
+{census_year: '1950', state: 'AZ', state_name: 'Arizona', population: 749587, percent_change: 50.14}
+
+
 
 {census_year: '1960', state: 'NH', state_name: 'New Hampshire', population: 606921, percent_change: 13.82},
 {census_year: '1960', state: 'MA', state_name: 'Massachusetts', population: 5148578, percent_change: 9.77},
@@ -647,9 +630,9 @@
 {census_year: '1960', state: 'UT', state_name: 'Utah', population: 890627, percent_change: 29.29},
 {census_year: '1960', state: 'OK', state_name: 'Oklahoma', population: 2328284, percent_change: 4.25},
 {census_year: '1960', state: 'NM', state_name: 'New Mexico', population: 951023, percent_change: 39.61},
-{census_year: '1960', state: 'AZ', state_name: 'Arizona', population: 1302161, percent_change: 73.72},
-{census_year: '1960', state: 'AK', state_name: 'Alaska', population: 226167},
-{census_year: '1960', state: 'HI', state_name: 'Hawaii', population: 632772},
+{census_year: '1960', state: 'AZ', state_name: 'Arizona', population: 1302161, percent_change: 73.72}
+
+
 
 {census_year: '1970', state: 'NH', state_name: 'New Hampshire', population: 737681, percent_change: 21.54},
 {census_year: '1970', state: 'MA', state_name: 'Massachusetts', population: 5689170, percent_change: 10.50},
@@ -700,7 +683,9 @@
 {census_year: '1970', state: 'NM', state_name: 'New Mexico', population: 1016000, percent_change: 6.83},
 {census_year: '1970', state: 'AZ', state_name: 'Arizona', population: 1770900, percent_change: 36.00},
 {census_year: '1970', state: 'AK', state_name: 'Alaska', population: 300382, percent_change: 32.81},
-{census_year: '1970', state: 'HI', state_name: 'Hawaii', population: 768561, percent_change: 21.46},
+{census_year: '1970', state: 'HI', state_name: 'Hawaii', population: 768561, percent_change: 21.46}
+
+
 
 {census_year: '1980', state: 'NH', state_name: 'New Hampshire', population: 920610, percent_change: 24.80},
 {census_year: '1980', state: 'MA', state_name: 'Massachusetts', population: 5737037, percent_change: 0.84},
@@ -751,7 +736,9 @@
 {census_year: '1980', state: 'NM', state_name: 'New Mexico', population: 1302894, percent_change: 28.24},
 {census_year: '1980', state: 'AZ', state_name: 'Arizona', population: 2718215, percent_change: 53.49},
 {census_year: '1980', state: 'AK', state_name: 'Alaska', population: 401851, percent_change: 33.78},
-{census_year: '1980', state: 'HI', state_name: 'Hawaii', population: 964691, percent_change: 25.52},
+{census_year: '1980', state: 'HI', state_name: 'Hawaii', population: 964691, percent_change: 25.52}
+
+
 
 {census_year: '1990', state: 'NH', state_name: 'New Hampshire', population: 1109252, percent_change: 20.49},
 {census_year: '1990', state: 'MA', state_name: 'Massachusetts', population: 6016425, percent_change: 4.87},
@@ -802,7 +789,9 @@
 {census_year: '1990', state: 'NM', state_name: 'New Mexico', population: 1515069, percent_change: 16.28},
 {census_year: '1990', state: 'AZ', state_name: 'Arizona', population: 3665228, percent_change: 34.84},
 {census_year: '1990', state: 'AK', state_name: 'Alaska', population: 550043, percent_change: 36.88},
-{census_year: '1990', state: 'HI', state_name: 'Hawaii', population: 1108229, percent_change: 14.88},
+{census_year: '1990', state: 'HI', state_name: 'Hawaii', population: 1108229, percent_change: 14.88}
+
+
 
 {census_year: '2000', state: 'NH', state_name: 'New Hampshire', population: 1235786, percent_change: 11.41},
 {census_year: '2000', state: 'MA', state_name: 'Massachusetts', population: 6349097, percent_change: 5.53},
@@ -853,7 +842,9 @@
 {census_year: '2000', state: 'NM', state_name: 'New Mexico', population: 1819046, percent_change: 20.06},
 {census_year: '2000', state: 'AZ', state_name: 'Arizona', population: 5130632, percent_change: 39.98},
 {census_year: '2000', state: 'AK', state_name: 'Alaska', population: 626932, percent_change: 13.98},
-{census_year: '2000', state: 'HI', state_name: 'Hawaii', population: 1211537, percent_change: 9.32},
+{census_year: '2000', state: 'HI', state_name: 'Hawaii', population: 1211537, percent_change: 9.32}
+
+
 
 {census_year: '2010', state: 'NH', state_name: 'New Hampshire', population: 1371246, percent_change: 10.96},
 {census_year: '2010', state: 'MA', state_name: 'Massachusetts', population: 6976597, percent_change: 9.88},
@@ -904,4 +895,4 @@
 {census_year: '2010', state: 'NM', state_name: 'New Mexico', population: 2096640, percent_change: 15.26},
 {census_year: '2010', state: 'AZ', state_name: 'Arizona', population: 7378494, percent_change: 43.81},
 {census_year: '2010', state: 'AK', state_name: 'Alaska', population: 734002, percent_change: 17.08},
-{census_year: '2010', state: 'HI', state_name: 'Hawaii', population: 1412687, percent_change: 16.60},
+{census_year: '2010', state: 'HI', state_name: 'Hawaii', population: 1412687, percent_change: 16.60}
