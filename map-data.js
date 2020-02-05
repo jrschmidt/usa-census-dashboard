@@ -1,3 +1,5 @@
+
+
 // Map data correlated to the US Census from 1790 to 2010. Data for each
 // decennial census includes all states admitted at that time. Latitude and
 // longitude data, as well as dot size (5 pixels for small states, 10 px for
@@ -992,5 +994,3 @@ const mapData = [
 
 
 ];
-
-export { mapData };

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "John",
+    "age": 63,
+    "brain_size": "really big"
+  },
+
+  {
+    "name": "Misty",
+    "age": 65,
+    "brain_size": "pretty big"
+  },
+
+  {
+    "name": "Skittles",
+    "age": 3,
+    "brain_size": "bird sized"
+  }
+]
