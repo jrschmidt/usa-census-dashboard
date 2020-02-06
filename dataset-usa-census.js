@@ -1,4 +1,4 @@
-var API_KEY = '05a12e43c95b2528c27bcc3456dd72d8';
+var API_KEY = '7f5126eea1addf5334e9341e200faa2f';
 
 var gb = require('geckoboard')(API_KEY);
 
