@@ -1,7 +1,6 @@
 {
 
-  "d1790":
-  [
+  "d1790": [
     {"latitude": 43.5, "longitude": -71.6, "color": "adbdcc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "adbdcc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "adbdcc", "size": 5, "state": "RI"},
@@ -17,8 +16,7 @@
     {"latitude": 32.9, "longitude": -83.5, "color": "adbdcc", "size": 10, "state": "GA"}
   ],
 
-  "d1800":
-  [
+  "d1800": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -37,8 +35,7 @@
     {"latitude": 35.8, "longitude": -86.2, "color": "297ccc", "size": 10, "state": "TN"}
   ],
 
-  "d1810":
-  [
+  "d1810": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "5290cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -58,8 +55,7 @@
     {"latitude": 40.1, "longitude": -82.7, "color": "adbdcc", "size": 10, "state": "OH"}
   ],
 
-  "d1820":
-  [
+  "d1820": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -85,8 +81,7 @@
     {"latitude": 45.5, "longitude": -69, "color": "adbdcc", "size": 10, "state": "ME"}
   ],
 
-  "d1830":
-  [
+  "d1830": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -113,8 +108,7 @@
     {"latitude": 38.5, "longitude": -92.5, "color": "adbdcc", "size": 10, "state": "MO"}
   ],
 
-  "d1840":
-  [
+  "d1840": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -143,8 +137,7 @@
     {"latitude": 44, "longitude": -85, "color": "adbdcc", "size": 10, "state": "MI"}
   ],
 
-  "d1850":
-  [
+  "d1850": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "0068cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "0068cc", "size": 5, "state": "RI"},
@@ -178,8 +171,7 @@
     {"latitude": 36, "longitude": -119, "color": "adbdcc", "size": 10, "state": "CA"}
   ],
 
-  "d1860":
-  [
+  "d1860": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -215,8 +207,7 @@
     {"latitude": 44, "longitude": -120.5, "color": "adbdcc", "size": 10, "state": "OR"}
   ],
 
-  "d1870":
-  [
+  "d1870": [
     {"latitude": 43.5, "longitude": -71.6, "color": "cca3b1", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -256,8 +247,7 @@
     {"latitude": 41.5, "longitude": -100, "color": "adbdcc", "size": 10, "state": "NE"}
   ],
 
-  "d1880":
-  [
+  "d1880": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -298,8 +288,7 @@
     {"latitude": 39, "longitude": -105.5, "color": "adbdcc", "size": 10, "state": "CO"}
   ],
 
-  "d1890":
-  [
+  "d1890": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -346,8 +335,7 @@
     {"latitude": 43, "longitude": -107.5, "color": "adbdcc", "size": 10, "state": "WY"}
   ],
 
-  "d1900":
-  [
+  "d1900": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -395,8 +383,7 @@
     {"latitude": 39.5, "longitude": -111.5, "color": "adbdcc", "size": 10, "state": "UT"}
   ],
 
-  "d1910":
-  [
+  "d1910": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -445,8 +432,7 @@
     {"latitude": 35.5, "longitude": -97, "color": "297ccc", "size": 10, "state": "OK"}
   ],
 
-  "d1920":
-  [
+  "d1920": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -497,8 +483,7 @@
     {"latitude": 34, "longitude": -112, "color": "297ccc", "size": 10, "state": "AZ"}
   ],
 
-  "d1930":
-  [
+  "d1930": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -549,8 +534,7 @@
     {"latitude": 34, "longitude": -112, "color": "0068cc", "size": 10, "state": "AZ"}
   ],
 
-  "d1940":
-  [
+  "d1940": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "5290cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -601,8 +585,7 @@
     {"latitude": 34, "longitude": -112, "color": "0068cc", "size": 10, "state": "AZ"}
   ],
 
-  "d1950":
-  [
+  "d1950": [
     {"latitude": 43.5, "longitude": -71.6, "color": "5290cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "5290cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -653,8 +636,7 @@
     {"latitude": 34, "longitude": -112, "color": "0068cc", "size": 10, "state": "AZ"}
   ],
 
-  "d1960":
-  [
+  "d1960": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "5290cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -707,8 +689,7 @@
     {"latitude": 27, "longitude": -105.5, "color": "adbdcc", "size": 10, "state": "HI"}
   ],
 
-  "d1970":
-  [
+  "d1970": [
     {"latitude": 43.5, "longitude": -71.6, "color": "0068cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -761,8 +742,7 @@
     {"latitude": 27, "longitude": -105.5, "color": "0068cc", "size": 10, "state": "HI"}
   ],
 
-  "d1980":
-  [
+  "d1980": [
     {"latitude": 43.5, "longitude": -71.6, "color": "0068cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "5290cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -815,8 +795,7 @@
     {"latitude": 27, "longitude": -105.5, "color": "0068cc", "size": 10, "state": "HI"}
   ],
 
-  "d1990":
-  [
+  "d1990": [
     {"latitude": 43.5, "longitude": -71.6, "color": "0068cc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "297ccc", "size": 5, "state": "RI"},
@@ -869,8 +848,7 @@
     {"latitude": 27, "longitude": -105.5, "color": "0068cc", "size": 10, "state": "HI"}
   ],
 
-  "d2000":
-  [
+  "d2000": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "5290cc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},
@@ -923,8 +901,7 @@
     {"latitude": 27, "longitude": -105.5, "color": "297ccc", "size": 10, "state": "HI"}
   ],
 
-  "d2010":
-  [
+  "d2010": [
     {"latitude": 43.5, "longitude": -71.6, "color": "297ccc", "size": 5, "state": "NH"},
     {"latitude": 42.4, "longitude": -72, "color": "297ccc", "size": 5, "state": "MA"},
     {"latitude": 41.7, "longitude": -71.5, "color": "5290cc", "size": 5, "state": "RI"},

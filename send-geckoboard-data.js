@@ -6,6 +6,9 @@ const api_key = '7f5126eea1addf5334e9341e200faa2f';
 const mData = fs.readFileSync('map-data.json');
 const mapData = JSON.parse(mData);
 
+
+
+
 const postMap = (censusYear) => {
   let pointData = mapData[censusYear];
   const data = {
