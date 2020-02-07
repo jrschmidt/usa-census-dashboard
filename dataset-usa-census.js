@@ -1,50 +1,60 @@
-var API_KEY = '7f5126eea1addf5334e9341e200faa2f';
+const fs = require('fs');
+const request = require('request-promise');
 
-var gb = require('geckoboard')(API_KEY);
+const api_key = '7f5126eea1addf5334e9341e200faa2f';
+const gb = require('geckoboard')(api_key);
 
-gb.datasets.findOrCreate(
-  {
-    id: 'us-census-x6',
-    fields: {
-      census_year: {
-        type: 'string',
-        name: 'Census Year'
+const pData = fs.readFileSync('population-data.json');
+const populationData = JSON.parse(pData);
+
+
+const putPopulation = (censusYear) => {
+  gb.datasets.findOrCreate(
+    {
+      id: 'us-census-x6',
+      fields: {
+        census_year: {
+          type: 'string',
+          name: 'Census Year'
+        },
+        state: {
+          type: 'string',
+          name: 'State'
+        },
+        state_name: {
+          type: 'string',
+          name: 'State Name'
+        },
+        population: {
+          type: 'number',
+          name: 'Population'
+        }
       },
-      state: {
-        type: 'string',
-        name: 'State'
-      },
-      state_name: {
-        type: 'string',
-        name: 'State Name'
-      },
-      population: {
-        type: 'number',
-        name: 'Population'
-      }
+      unique_by: ['census_year', 'state']
     },
-    unique_by: ['census_year', 'state']
-  },
 
-  function(err, dataset) {
-    if (err) {
-      console.error(err);
-      return;
+    (err, dataset) => {
+      if (err) {
+        console.error(err);
+        return;
+      };
+
+      let data = populationData[censusYear];
+      dataset.put(data,
+        (err) => {
+          if (err) {
+            console.error(err);
+            return;
+          }
+          console.log('Data added');
+        }
+      );
+
     }
 
-    dataset.put(
-      [],
+  );
 
-      function(err) {
-        if (err) {
-          console.error(err);
-          return;
-        }
+}
 
-        console.log('Data added');
-      }
-    );
-
-  }
-
-);
+const censusYear = 'd1850';
+putPopulation(censusYear);
